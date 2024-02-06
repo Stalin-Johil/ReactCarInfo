@@ -1,0 +1,21 @@
+{
+    "owner_types": [
+      {
+        "type": "1st owner",
+        "value": 1
+      },
+      {
+        "type": "2nd owner",
+        "value": 2
+      },
+      {
+        "type": "3rd owner",
+        "value": 3
+      },
+      {
+        "type": "4th owner",
+        "value": 4
+      }
+    ]
+  }
+  

@@ -1,0 +1,14 @@
+{
+    "fuel_types": [
+      {
+        "type": "Petrol"
+      },
+      {
+        "type": "Diesel"
+      },
+      {
+        "type": "CNG"
+      }
+    ]
+  }
+  

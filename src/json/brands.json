@@ -1,0 +1,65 @@
+{
+    "car_brands": [
+      {
+        "name": "Toyota",
+        "logo_link": "https://example.com/toyota_logo.png"
+      },
+      {
+        "name": "Ford",
+        "logo_link": "https://example.com/ford_logo.png"
+      },
+      {
+        "name": "BMW",
+        "logo_link": "https://example.com/bmw_logo.png"
+      },
+      {
+        "name": "Mercedes-Benz",
+        "logo_link": "https://example.com/mercedes_logo.png"
+      },
+      {
+        "name": "Honda",
+        "logo_link": "https://example.com/honda_logo.png"
+      },
+      {
+        "name": "Chevrolet",
+        "logo_link": "https://example.com/chevrolet_logo.png"
+      },
+      {
+        "name": "Audi",
+        "logo_link": "https://example.com/audi_logo.png"
+      },
+      {
+        "name": "Nissan",
+        "logo_link": "https://example.com/nissan_logo.png"
+      },
+      {
+        "name": "Hyundai",
+        "logo_link": "https://example.com/hyundai_logo.png"
+      },
+      {
+        "name": "Volkswagen",
+        "logo_link": "https://example.com/vw_logo.png"
+      },
+      {
+        "name": "Tesla",
+        "logo_link": "https://example.com/tesla_logo.png"
+      },
+      {
+        "name": "Volvo",
+        "logo_link": "https://example.com/volvo_logo.png"
+      },
+      {
+        "name": "Jaguar",
+        "logo_link": "https://example.com/jaguar_logo.png"
+      },
+      {
+        "name": "Ferrari",
+        "logo_link": "https://example.com/ferrari_logo.png"
+      },
+      {
+        "name": "Subaru",
+        "logo_link": "https://example.com/subaru_logo.png"
+      }
+    ]
+  }
+  

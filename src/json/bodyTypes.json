@@ -1,0 +1,37 @@
+{
+    "body_types": [
+      {
+        "type": "Sedan",
+        "description": "A four-door passenger car with a separate trunk for cargo."
+      },
+      {
+        "type": "Hatchback",
+        "description": "A compact car with a rear door that opens upwards, providing access to the cargo area."
+      },
+      {
+        "type": "SUV",
+        "description": "Sport Utility Vehicle, characterized by a higher ground clearance and often suitable for off-road driving."
+      },
+      {
+        "type": "Coupe",
+        "description": "A two-door car with a fixed roof and a sloping rear roofline, usually more sporty in design."
+      },
+      {
+        "type": "Convertible",
+        "description": "A car with a retractable or removable roof, allowing it to be used with the top open or closed."
+      },
+      {
+        "type": "Minivan",
+        "description": "A spacious passenger vehicle with sliding doors and often with three rows of seating."
+      },
+      {
+        "type": "Pickup Truck",
+        "description": "A vehicle with an open cargo area at the back, suitable for transporting goods and often used for off-road purposes."
+      },
+      {
+        "type": "Crossover",
+        "description": "A vehicle that combines features of both SUVs and passenger cars, often built on a car platform."
+      }
+    ]
+  }
+  
